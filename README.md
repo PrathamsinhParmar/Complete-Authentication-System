@@ -1,4 +1,4 @@
-# Complete Authentication - Oneshot
+# Complete Authentication System
 
 A Node.js + Express + MongoDB authentication system with email-based OTP verification, JWT access tokens, refresh-token sessions, and Google OAuth2 mail delivery through Nodemailer.
 
